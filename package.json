@@ -1,0 +1,24 @@
+{
+  "name": "animeseason",
+  "version": "1.0.0",
+  "description": "Control your list of animes then you want to view",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunodaanunciacao/animeseason.git"
+  },
+  "keywords": [
+    "anime",
+    "list",
+    "control"
+  ],
+  "author": "Bruno Danuncia",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/brunodaanunciacao/animeseason/issues"
+  },
+  "homepage": "https://github.com/brunodaanunciacao/animeseason#readme"
+}
